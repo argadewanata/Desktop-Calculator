@@ -1,0 +1,17 @@
+D:\OneDrive - Institut Teknologi Sepuluh Nopember\College Stuff\Semester 6\Pemrograman Berbasis Kerangka Kerja (Fajar Baskoro)\Code\Calculator\bin\Debug\net6.0-windows\Calculator.exe
+D:\OneDrive - Institut Teknologi Sepuluh Nopember\College Stuff\Semester 6\Pemrograman Berbasis Kerangka Kerja (Fajar Baskoro)\Code\Calculator\bin\Debug\net6.0-windows\Calculator.deps.json
+D:\OneDrive - Institut Teknologi Sepuluh Nopember\College Stuff\Semester 6\Pemrograman Berbasis Kerangka Kerja (Fajar Baskoro)\Code\Calculator\bin\Debug\net6.0-windows\Calculator.runtimeconfig.json
+D:\OneDrive - Institut Teknologi Sepuluh Nopember\College Stuff\Semester 6\Pemrograman Berbasis Kerangka Kerja (Fajar Baskoro)\Code\Calculator\bin\Debug\net6.0-windows\Calculator.dll
+D:\OneDrive - Institut Teknologi Sepuluh Nopember\College Stuff\Semester 6\Pemrograman Berbasis Kerangka Kerja (Fajar Baskoro)\Code\Calculator\bin\Debug\net6.0-windows\Calculator.pdb
+D:\OneDrive - Institut Teknologi Sepuluh Nopember\College Stuff\Semester 6\Pemrograman Berbasis Kerangka Kerja (Fajar Baskoro)\Code\Calculator\obj\Debug\net6.0-windows\Calculator.csproj.AssemblyReference.cache
+D:\OneDrive - Institut Teknologi Sepuluh Nopember\College Stuff\Semester 6\Pemrograman Berbasis Kerangka Kerja (Fajar Baskoro)\Code\Calculator\obj\Debug\net6.0-windows\Calculator.Form1.resources
+D:\OneDrive - Institut Teknologi Sepuluh Nopember\College Stuff\Semester 6\Pemrograman Berbasis Kerangka Kerja (Fajar Baskoro)\Code\Calculator\obj\Debug\net6.0-windows\Calculator.csproj.GenerateResource.cache
+D:\OneDrive - Institut Teknologi Sepuluh Nopember\College Stuff\Semester 6\Pemrograman Berbasis Kerangka Kerja (Fajar Baskoro)\Code\Calculator\obj\Debug\net6.0-windows\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Institut Teknologi Sepuluh Nopember\College Stuff\Semester 6\Pemrograman Berbasis Kerangka Kerja (Fajar Baskoro)\Code\Calculator\obj\Debug\net6.0-windows\Calculator.AssemblyInfoInputs.cache
+D:\OneDrive - Institut Teknologi Sepuluh Nopember\College Stuff\Semester 6\Pemrograman Berbasis Kerangka Kerja (Fajar Baskoro)\Code\Calculator\obj\Debug\net6.0-windows\Calculator.AssemblyInfo.cs
+D:\OneDrive - Institut Teknologi Sepuluh Nopember\College Stuff\Semester 6\Pemrograman Berbasis Kerangka Kerja (Fajar Baskoro)\Code\Calculator\obj\Debug\net6.0-windows\Calculator.csproj.CoreCompileInputs.cache
+D:\OneDrive - Institut Teknologi Sepuluh Nopember\College Stuff\Semester 6\Pemrograman Berbasis Kerangka Kerja (Fajar Baskoro)\Code\Calculator\obj\Debug\net6.0-windows\Calculator.dll
+D:\OneDrive - Institut Teknologi Sepuluh Nopember\College Stuff\Semester 6\Pemrograman Berbasis Kerangka Kerja (Fajar Baskoro)\Code\Calculator\obj\Debug\net6.0-windows\refint\Calculator.dll
+D:\OneDrive - Institut Teknologi Sepuluh Nopember\College Stuff\Semester 6\Pemrograman Berbasis Kerangka Kerja (Fajar Baskoro)\Code\Calculator\obj\Debug\net6.0-windows\Calculator.pdb
+D:\OneDrive - Institut Teknologi Sepuluh Nopember\College Stuff\Semester 6\Pemrograman Berbasis Kerangka Kerja (Fajar Baskoro)\Code\Calculator\obj\Debug\net6.0-windows\Calculator.genruntimeconfig.cache
+D:\OneDrive - Institut Teknologi Sepuluh Nopember\College Stuff\Semester 6\Pemrograman Berbasis Kerangka Kerja (Fajar Baskoro)\Code\Calculator\obj\Debug\net6.0-windows\ref\Calculator.dll
